@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @YusufIsmailOkur
+- I am a freshman in Bilkent University
+- I am in computer science department.
